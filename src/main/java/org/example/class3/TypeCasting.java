@@ -17,6 +17,10 @@ public class TypeCasting {
         int thenumbers=numbers;
         System.out.println(numbers);
 
+        int nr=10;
+        float numberi =nr;
+        System.out.println(nr);
+
 
 
     }

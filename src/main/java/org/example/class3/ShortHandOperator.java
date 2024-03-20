@@ -8,6 +8,12 @@ public class ShortHandOperator {
         System.out.println(number1);
 
 
+        int numb1=10;
+        int numb2=20;
+        System.out.println(numb1==numb2);
+        System.out.println(10==10);
+
+
 
 
     }
